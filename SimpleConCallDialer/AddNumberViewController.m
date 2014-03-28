@@ -3,8 +3,10 @@
 //  SimpleconfCallDialer
 //
 //  Created by Robin Lin on 3/19/14.
-//  Copyright (c) 2014 Robin Lin. All rights reserved.
 //
+//  Copyright Robin Lin 2014.
+
+
 
 #import "AddNumberViewController.h"
 #import "ConfCall.h"
@@ -302,8 +304,9 @@ static NSString *PhoneNumberSeparator = @".";
     PhoneNumberType pnType;
     
     // Phone number will look like (XXX) XXX.XXXX
-    // Some notes:
+    // Some notes (try to emulate what is done in Contacts app)
     // 1. No area codes start with 0 or 1
+    // 2. If there are too many numbers then take out all formatting and display the numbers
     
     for (NSUInteger i=0; i < tempString.length; i++) {
         c = [tempString characterAtIndex:i];

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7C4E184918DA120A007762A5"
-               BuildableName = "ConCall.app"
-               BlueprintName = "ConCall"
-               ReferencedContainer = "container:ConCall.xcodeproj">
+               BuildableName = "ConConCall.app"
+               BlueprintName = "ConConCall"
+               ReferencedContainer = "container:ConConCall.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7C4E186418DA120A007762A5"
-               BuildableName = "ConCallTests.xctest"
-               BlueprintName = "ConCallTests"
-               ReferencedContainer = "container:ConCall.xcodeproj">
+               BuildableName = "ConConCallTests.xctest"
+               BlueprintName = "ConConCallTests"
+               ReferencedContainer = "container:ConConCall.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7C4E184918DA120A007762A5"
-            BuildableName = "ConCall.app"
-            BlueprintName = "ConCall"
-            ReferencedContainer = "container:ConCall.xcodeproj">
+            BuildableName = "ConConCall.app"
+            BlueprintName = "ConConCall"
+            ReferencedContainer = "container:ConConCall.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7C4E184918DA120A007762A5"
-            BuildableName = "ConCall.app"
-            BlueprintName = "ConCall"
-            ReferencedContainer = "container:ConCall.xcodeproj">
+            BuildableName = "ConConCall.app"
+            BlueprintName = "ConConCall"
+            ReferencedContainer = "container:ConConCall.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7C4E184918DA120A007762A5"
-            BuildableName = "ConCall.app"
-            BlueprintName = "ConCall"
-            ReferencedContainer = "container:ConCall.xcodeproj">
+            BuildableName = "ConConCall.app"
+            BlueprintName = "ConConCall"
+            ReferencedContainer = "container:ConConCall.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

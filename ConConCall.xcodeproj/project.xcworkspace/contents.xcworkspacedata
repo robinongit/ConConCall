@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ConCall.xcodeproj">
+      location = "self:ConConCall.xcodeproj">
    </FileRef>
 </Workspace>

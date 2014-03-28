@@ -3,8 +3,10 @@
 //  SimpleconfCallDialer
 //
 //  Created by Robin Lin on 3/19/14.
-//  Copyright (c) 2014 Robin Lin. All rights reserved.
 //
+//  Copyright Robin Lin 2014.
+
+
 
 #import "MainViewController.h"
 #import "ConfCall.h"
@@ -113,6 +115,8 @@ static NSString *ConfNumberCellIdentifier = @"ConfNumberCellIdentifier";
     ConfCall *confCallObj = [confCallArray objectAtIndex:[indexPath row]];
     
     NSMutableString *phoneNumber = [NSMutableString stringWithFormat:@"%@", confCallObj.confCallDialInNumber];
+    // when displayed, phoneNumber has spaces and dots to make it look nicer
+    // in order for the dialer to work though, they need to be taken out
     [phoneNumber replaceOccurrencesOfString:@"." withString:@"-" options:NSLiteralSearch range:NSMakeRange(0, phoneNumber.length)];
     [phoneNumber replaceOccurrencesOfString:@" " withString:@"" options:NSLiteralSearch range:NSMakeRange(0, phoneNumber.length)];
     

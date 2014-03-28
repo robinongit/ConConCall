@@ -41,6 +41,8 @@
 		7C9D8BC618DCB035004E2ED4 /* concallIcon_72x72.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C9D8BB818DCB035004E2ED4 /* concallIcon_72x72.png */; };
 		7C9D8BC718DCB035004E2ED4 /* concallIcon_114x114.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C9D8BB918DCB035004E2ED4 /* concallIcon_114x114.png */; };
 		7C9D8BC818DCB035004E2ED4 /* concallIcon_57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C9D8BBA18DCB035004E2ED4 /* concallIcon_57x57.png */; };
+		7CABE1B318E2262300268178 /* concallIcon_1024x1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CABE1B218E2262300268178 /* concallIcon_1024x1024.png */; };
+		7CC8292318E4F26200C65ECA /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7CC8292218E4F26200C65ECA /* README.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,20 +58,20 @@
 /* Begin PBXFileReference section */
 		7C017C2818DD64A800E90A65 /* launchimage_640x1136.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = launchimage_640x1136.png; path = Resources/launchimage_640x1136.png; sourceTree = "<group>"; };
 		7C017C2918DD64A800E90A65 /* launchimage_640x960.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = launchimage_640x960.png; path = Resources/launchimage_640x960.png; sourceTree = "<group>"; };
-		7C4E184A18DA120A007762A5 /* ConCall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConCall.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C4E184A18DA120A007762A5 /* ConConCall.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConConCall.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C4E184D18DA120A007762A5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		7C4E184F18DA120A007762A5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		7C4E185118DA120A007762A5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		7C4E185518DA120A007762A5 /* ConCall-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ConCall-Info.plist"; sourceTree = "<group>"; };
+		7C4E185518DA120A007762A5 /* ConConCall-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ConConCall-Info.plist"; sourceTree = "<group>"; };
 		7C4E185718DA120A007762A5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7C4E185918DA120A007762A5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		7C4E185B18DA120A007762A5 /* ConCall-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ConCall-Prefix.pch"; sourceTree = "<group>"; };
+		7C4E185B18DA120A007762A5 /* ConConCall-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ConConCall-Prefix.pch"; sourceTree = "<group>"; };
 		7C4E185C18DA120A007762A5 /* SCCDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SCCDAppDelegate.h; sourceTree = "<group>"; };
 		7C4E185D18DA120A007762A5 /* SCCDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SCCDAppDelegate.m; sourceTree = "<group>"; };
 		7C4E185F18DA120A007762A5 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		7C4E186518DA120A007762A5 /* ConCallTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ConCallTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C4E186518DA120A007762A5 /* ConConCallTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ConConCallTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C4E186618DA120A007762A5 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		7C4E186E18DA120B007762A5 /* ConCallTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ConCallTests-Info.plist"; sourceTree = "<group>"; };
+		7C4E186E18DA120B007762A5 /* ConConCallTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ConConCallTests-Info.plist"; sourceTree = "<group>"; };
 		7C4E187018DA120B007762A5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7C4E187218DA120B007762A5 /* SimpleConCallDialerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleConCallDialerTests.m; sourceTree = "<group>"; };
 		7C4E187C18DA13E1007762A5 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
@@ -97,6 +99,8 @@
 		7C9D8BB818DCB035004E2ED4 /* concallIcon_72x72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = concallIcon_72x72.png; path = Resources/concallIcon_72x72.png; sourceTree = "<group>"; };
 		7C9D8BB918DCB035004E2ED4 /* concallIcon_114x114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = concallIcon_114x114.png; path = Resources/concallIcon_114x114.png; sourceTree = "<group>"; };
 		7C9D8BBA18DCB035004E2ED4 /* concallIcon_57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = concallIcon_57x57.png; path = Resources/concallIcon_57x57.png; sourceTree = "<group>"; };
+		7CABE1B218E2262300268178 /* concallIcon_1024x1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = concallIcon_1024x1024.png; path = Resources/concallIcon_1024x1024.png; sourceTree = "<group>"; };
+		7CC8292218E4F26200C65ECA /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +130,7 @@
 		7C4E184118DA120A007762A5 = {
 			isa = PBXGroup;
 			children = (
+				7CC8292218E4F26200C65ECA /* README.txt */,
 				7C7D13CD18E0A9E800F616F7 /* Default-568h@2x.png */,
 				7C4E185318DA120A007762A5 /* SimpleConCallDialer */,
 				7C4E186C18DA120B007762A5 /* SimpleConCallDialerTests */,
@@ -137,8 +142,8 @@
 		7C4E184B18DA120A007762A5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7C4E184A18DA120A007762A5 /* ConCall.app */,
-				7C4E186518DA120A007762A5 /* ConCallTests.xctest */,
+				7C4E184A18DA120A007762A5 /* ConConCall.app */,
+				7C4E186518DA120A007762A5 /* ConConCallTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -157,6 +162,7 @@
 		7C4E185318DA120A007762A5 /* SimpleConCallDialer */ = {
 			isa = PBXGroup;
 			children = (
+				7CC8292118E4F0D400C65ECA /* Objects */,
 				7C4E188518DA3DB7007762A5 /* ViewControllers */,
 				7C4E185C18DA120A007762A5 /* SCCDAppDelegate.h */,
 				7C4E185D18DA120A007762A5 /* SCCDAppDelegate.m */,
@@ -164,8 +170,6 @@
 				7C4E188018DA192E007762A5 /* SCCDCache.m */,
 				7C4E188218DA3B3D007762A5 /* SCCDConstants.h */,
 				7C4E188318DA3B3D007762A5 /* SCCDConstants.m */,
-				7C4E188918DA4667007762A5 /* ConfCall.h */,
-				7C4E188A18DA4667007762A5 /* ConfCall.m */,
 				7C4E185F18DA120A007762A5 /* Images.xcassets */,
 				7CD40C6818DAB69000727A83 /* Resource */,
 				7C4E185418DA120A007762A5 /* Supporting Files */,
@@ -176,10 +180,10 @@
 		7C4E185418DA120A007762A5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				7C4E185518DA120A007762A5 /* ConCall-Info.plist */,
+				7C4E185518DA120A007762A5 /* ConConCall-Info.plist */,
 				7C4E185618DA120A007762A5 /* InfoPlist.strings */,
 				7C4E185918DA120A007762A5 /* main.m */,
-				7C4E185B18DA120A007762A5 /* ConCall-Prefix.pch */,
+				7C4E185B18DA120A007762A5 /* ConConCall-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -196,7 +200,7 @@
 		7C4E186D18DA120B007762A5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				7C4E186E18DA120B007762A5 /* ConCallTests-Info.plist */,
+				7C4E186E18DA120B007762A5 /* ConConCallTests-Info.plist */,
 				7C4E186F18DA120B007762A5 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -213,9 +217,19 @@
 			name = ViewControllers;
 			sourceTree = "<group>";
 		};
+		7CC8292118E4F0D400C65ECA /* Objects */ = {
+			isa = PBXGroup;
+			children = (
+				7C4E188918DA4667007762A5 /* ConfCall.h */,
+				7C4E188A18DA4667007762A5 /* ConfCall.m */,
+			);
+			name = Objects;
+			sourceTree = "<group>";
+		};
 		7CD40C6818DAB69000727A83 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
+				7CABE1B218E2262300268178 /* concallIcon_1024x1024.png */,
 				7C017C2818DD64A800E90A65 /* launchimage_640x1136.png */,
 				7C017C2918DD64A800E90A65 /* launchimage_640x960.png */,
 				7C9D8BAD18DCB035004E2ED4 /* concallIcon_29x29.png */,
@@ -239,9 +253,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7C4E184918DA120A007762A5 /* ConCall */ = {
+		7C4E184918DA120A007762A5 /* ConConCall */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7C4E187618DA120B007762A5 /* Build configuration list for PBXNativeTarget "ConCall" */;
+			buildConfigurationList = 7C4E187618DA120B007762A5 /* Build configuration list for PBXNativeTarget "ConConCall" */;
 			buildPhases = (
 				7C4E184618DA120A007762A5 /* Sources */,
 				7C4E184718DA120A007762A5 /* Frameworks */,
@@ -251,14 +265,14 @@
 			);
 			dependencies = (
 			);
-			name = ConCall;
+			name = ConConCall;
 			productName = SimpleConCallDialer;
-			productReference = 7C4E184A18DA120A007762A5 /* ConCall.app */;
+			productReference = 7C4E184A18DA120A007762A5 /* ConConCall.app */;
 			productType = "com.apple.product-type.application";
 		};
-		7C4E186418DA120A007762A5 /* ConCallTests */ = {
+		7C4E186418DA120A007762A5 /* ConConCallTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7C4E187918DA120B007762A5 /* Build configuration list for PBXNativeTarget "ConCallTests" */;
+			buildConfigurationList = 7C4E187918DA120B007762A5 /* Build configuration list for PBXNativeTarget "ConConCallTests" */;
 			buildPhases = (
 				7C4E186118DA120A007762A5 /* Sources */,
 				7C4E186218DA120A007762A5 /* Frameworks */,
@@ -269,9 +283,9 @@
 			dependencies = (
 				7C4E186B18DA120B007762A5 /* PBXTargetDependency */,
 			);
-			name = ConCallTests;
+			name = ConConCallTests;
 			productName = SimpleConCallDialerTests;
-			productReference = 7C4E186518DA120A007762A5 /* ConCallTests.xctest */;
+			productReference = 7C4E186518DA120A007762A5 /* ConConCallTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -291,7 +305,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7C4E184518DA120A007762A5 /* Build configuration list for PBXProject "ConCall" */;
+			buildConfigurationList = 7C4E184518DA120A007762A5 /* Build configuration list for PBXProject "ConConCall" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -303,8 +317,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7C4E184918DA120A007762A5 /* ConCall */,
-				7C4E186418DA120A007762A5 /* ConCallTests */,
+				7C4E184918DA120A007762A5 /* ConConCall */,
+				7C4E186418DA120A007762A5 /* ConConCallTests */,
 			);
 		};
 /* End PBXProject section */
@@ -320,6 +334,7 @@
 				7C9D8BBD18DCB035004E2ED4 /* concallIcon_40x40.png in Resources */,
 				7C9D8BBC18DCB035004E2ED4 /* concallIcon_80x80.png in Resources */,
 				7C9D8BC318DCB035004E2ED4 /* concallIcon_50x50.png in Resources */,
+				7CC8292318E4F26200C65ECA /* README.txt in Resources */,
 				7C4E185818DA120A007762A5 /* InfoPlist.strings in Resources */,
 				7C9D8BC118DCB035004E2ED4 /* concallIcon_60x60.png in Resources */,
 				7C017C2B18DD64A800E90A65 /* launchimage_640x960.png in Resources */,
@@ -332,6 +347,7 @@
 				7C9D8BC818DCB035004E2ED4 /* concallIcon_57x57.png in Resources */,
 				7C9D8BC218DCB035004E2ED4 /* concallIcon_100x100.png in Resources */,
 				7C9D8BC418DCB035004E2ED4 /* concallIcon_58x58.png in Resources */,
+				7CABE1B318E2262300268178 /* concallIcon_1024x1024.png in Resources */,
 				7C9D8BBB18DCB035004E2ED4 /* concallIcon_29x29.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -374,7 +390,7 @@
 /* Begin PBXTargetDependency section */
 		7C4E186B18DA120B007762A5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7C4E184918DA120A007762A5 /* ConCall */;
+			target = 7C4E184918DA120A007762A5 /* ConConCall */;
 			targetProxy = 7C4E186A18DA120B007762A5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -416,6 +432,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -434,6 +451,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "4FA3E758-DF9F-4A8F-B172-9745AD2DA2F4";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -467,6 +485,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PROVISIONING_PROFILE = "4FA3E758-DF9F-4A8F-B172-9745AD2DA2F4";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -489,7 +508,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "SimpleConCallDialer/ConCall-Prefix.pch";
+				GCC_PREFIX_HEADER = "SimpleConCallDialer/ConConCall-Prefix.pch";
 				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = YES;
 				GCC_TREAT_INCOMPATIBLE_POINTER_TYPE_WARNINGS_AS_ERRORS = YES;
 				GCC_WARN_ABOUT_MISSING_FIELD_INITIALIZERS = YES;
@@ -504,9 +523,10 @@
 				GCC_WARN_UNKNOWN_PRAGMAS = YES;
 				GCC_WARN_UNUSED_LABEL = YES;
 				GCC_WARN_UNUSED_PARAMETER = NO;
-				INFOPLIST_FILE = "SimpleConCallDialer/ConCall-Info.plist";
-				PRODUCT_NAME = ConCall;
+				INFOPLIST_FILE = "SimpleConCallDialer/ConConCall-Info.plist";
+				PRODUCT_NAME = ConConCall;
 				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -527,7 +547,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "SimpleConCallDialer/ConCall-Prefix.pch";
+				GCC_PREFIX_HEADER = "SimpleConCallDialer/ConConCall-Prefix.pch";
 				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = YES;
 				GCC_TREAT_INCOMPATIBLE_POINTER_TYPE_WARNINGS_AS_ERRORS = YES;
 				GCC_WARN_ABOUT_MISSING_FIELD_INITIALIZERS = YES;
@@ -542,9 +562,10 @@
 				GCC_WARN_UNKNOWN_PRAGMAS = YES;
 				GCC_WARN_UNUSED_LABEL = YES;
 				GCC_WARN_UNUSED_PARAMETER = NO;
-				INFOPLIST_FILE = "SimpleConCallDialer/ConCall-Info.plist";
-				PRODUCT_NAME = ConCall;
+				INFOPLIST_FILE = "SimpleConCallDialer/ConConCall-Info.plist";
+				PRODUCT_NAME = ConConCall;
 				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -565,8 +586,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "SimpleConCallDialerTests/ConCallTests-Info.plist";
-				PRODUCT_NAME = ConCallTests;
+				INFOPLIST_FILE = "SimpleConCallDialerTests/ConConCallTests-Info.plist";
+				PRODUCT_NAME = ConConCallTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -584,8 +605,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SimpleConCallDialer/SimpleConCallDialer-Prefix.pch";
-				INFOPLIST_FILE = "SimpleConCallDialerTests/ConCallTests-Info.plist";
-				PRODUCT_NAME = ConCallTests;
+				INFOPLIST_FILE = "SimpleConCallDialerTests/ConConCallTests-Info.plist";
+				PRODUCT_NAME = ConConCallTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -594,7 +615,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7C4E184518DA120A007762A5 /* Build configuration list for PBXProject "ConCall" */ = {
+		7C4E184518DA120A007762A5 /* Build configuration list for PBXProject "ConConCall" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7C4E187418DA120B007762A5 /* Debug */,
@@ -603,7 +624,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7C4E187618DA120B007762A5 /* Build configuration list for PBXNativeTarget "ConCall" */ = {
+		7C4E187618DA120B007762A5 /* Build configuration list for PBXNativeTarget "ConConCall" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7C4E187718DA120B007762A5 /* Debug */,
@@ -612,7 +633,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7C4E187918DA120B007762A5 /* Build configuration list for PBXNativeTarget "ConCallTests" */ = {
+		7C4E187918DA120B007762A5 /* Build configuration list for PBXNativeTarget "ConConCallTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7C4E187A18DA120B007762A5 /* Debug */,
