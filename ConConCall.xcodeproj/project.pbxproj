@@ -43,6 +43,7 @@
 		7C9D8BC818DCB035004E2ED4 /* concallIcon_57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C9D8BBA18DCB035004E2ED4 /* concallIcon_57x57.png */; };
 		7CABE1B318E2262300268178 /* concallIcon_1024x1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CABE1B218E2262300268178 /* concallIcon_1024x1024.png */; };
 		7CC8292318E4F26200C65ECA /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7CC8292218E4F26200C65ECA /* README.txt */; };
+		7CC8292518E4F62600C65ECA /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 7CC8292418E4F62600C65ECA /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -101,6 +102,7 @@
 		7C9D8BBA18DCB035004E2ED4 /* concallIcon_57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = concallIcon_57x57.png; path = Resources/concallIcon_57x57.png; sourceTree = "<group>"; };
 		7CABE1B218E2262300268178 /* concallIcon_1024x1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = concallIcon_1024x1024.png; path = Resources/concallIcon_1024x1024.png; sourceTree = "<group>"; };
 		7CC8292218E4F26200C65ECA /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		7CC8292418E4F62600C65ECA /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = SimpleConCallDialer/LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 			isa = PBXGroup;
 			children = (
 				7CC8292218E4F26200C65ECA /* README.txt */,
+				7CC8292418E4F62600C65ECA /* LICENSE */,
 				7C7D13CD18E0A9E800F616F7 /* Default-568h@2x.png */,
 				7C4E185318DA120A007762A5 /* SimpleConCallDialer */,
 				7C4E186C18DA120B007762A5 /* SimpleConCallDialerTests */,
@@ -344,6 +347,7 @@
 				7C7D13CE18E0A9E800F616F7 /* Default-568h@2x.png in Resources */,
 				7C9D8BBE18DCB035004E2ED4 /* concallIcon_152x152.png in Resources */,
 				7C017C2A18DD64A800E90A65 /* launchimage_640x1136.png in Resources */,
+				7CC8292518E4F62600C65ECA /* LICENSE in Resources */,
 				7C9D8BC818DCB035004E2ED4 /* concallIcon_57x57.png in Resources */,
 				7C9D8BC218DCB035004E2ED4 /* concallIcon_100x100.png in Resources */,
 				7C9D8BC418DCB035004E2ED4 /* concallIcon_58x58.png in Resources */,
